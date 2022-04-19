@@ -3,6 +3,4 @@ services:
   worker:
     build: .
     environment:
-      API_HASH: $API_HASH
-      API_ID: $API_ID
-    ]
+  
